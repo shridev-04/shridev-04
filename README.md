@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Shridev Kumar — Electronics x Code" width="100%"/>
+<img src="banner.svg" alt="Shridev — Electronics x Code" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Electronics+Engineering+student+%40+GPP+7;Building+where+hardware+meets+AI;ESP32+%E2%80%A2+OpenCV+%E2%80%A2+TensorFlow+%E2%80%A2+Python;Spark+%E2%80%94+my+own+AI+assistant" alt="typing" />
